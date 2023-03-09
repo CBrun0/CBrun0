@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Bruno
+
+A passionate fullstack developer from Bordeaux, France
+
+👨‍💻 #Languages
+rails ruby linux bootstrap css3 figma git heroku html5 javascript postgresql mysql redis webpack
+
+🛠 #Tools
+Slack Notion GitHub
+
+#Connect with me:
+bruno-c-745973247
+
+- 📫 How to reach me: bruno.chehboun@gmail.com
+
+.🌐 #Languages#
+Native French, English and Spanish 
 
 <!--
 **CBrun0/CBrun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
