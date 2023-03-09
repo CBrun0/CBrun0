@@ -1,19 +1,19 @@
-### Hi there 👋 I'm Bruno
+                                      ### Hi there 👋 I'm Bruno
 
-A passionate fullstack developer from Bordeaux, France
+                    A passionate fullstack developer from Bordeaux, France
 
 👨‍💻 #Languages
 rails ruby linux bootstrap css3 figma git heroku html5 javascript postgresql mysql redis webpack
 
-🛠 #Tools
+🛠 Tools
 Slack Notion GitHub
 
-#Connect with me:
+Connect with me:
 bruno-c-745973247
 
 - 📫 How to reach me: bruno.chehboun@gmail.com
 
-.🌐 #Languages#
+.🌐 Languages#
 Native French, English and Spanish 
 
 <!--
